@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @malloreddus
-- 😀 I’m interested in Cybersecurity, Big data and Data analysis 
+- 😀 I’m interested in Cybersecurity, data and spectral anlysis (BRDF)
 - 🌱 I’m currently learning engineering
 
 <!---
