@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @malloreddus
-
+- 🌱 I’m currently working on a hyperspectral analysis BRDF project for agriculture application
 
 <!---
 wjb32/wjb32 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
