@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @malloreddus
+- 👋 Hi, I’m @malloreddus, student engine here :)
 - 🌱 I’m currently working on a hyperspectral analysis BRDF project for agriculture application
 
 <!---
